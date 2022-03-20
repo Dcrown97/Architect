@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Archi from './Archi';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Archi />
   </React.StrictMode>,
   document.getElementById('root')
 );
